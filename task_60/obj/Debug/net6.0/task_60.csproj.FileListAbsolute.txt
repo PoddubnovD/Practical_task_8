@@ -1,0 +1,15 @@
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\bin\Debug\net6.0\task_60.exe
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\bin\Debug\net6.0\task_60.deps.json
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\bin\Debug\net6.0\task_60.runtimeconfig.json
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\bin\Debug\net6.0\task_60.dll
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\bin\Debug\net6.0\task_60.pdb
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\obj\Debug\net6.0\task_60.csproj.AssemblyReference.cache
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\obj\Debug\net6.0\task_60.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\obj\Debug\net6.0\task_60.AssemblyInfoInputs.cache
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\obj\Debug\net6.0\task_60.AssemblyInfo.cs
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\obj\Debug\net6.0\task_60.csproj.CoreCompileInputs.cache
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\obj\Debug\net6.0\task_60.dll
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\obj\Debug\net6.0\refint\task_60.dll
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\obj\Debug\net6.0\task_60.pdb
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\obj\Debug\net6.0\task_60.genruntimeconfig.cache
+E:\GeekBrains\git\Знакомство с языками программирования (семинары)\DZ_8\Practical_task\task_60\obj\Debug\net6.0\ref\task_60.dll
